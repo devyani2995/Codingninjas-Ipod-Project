@@ -16,9 +16,9 @@ This is a Mini iPod App Project which is built by using React.
   
 ## Tools Used
 
--ReactJS
--NodeJS
--HTML
--CSS
--Javascript
--Visual Studio
+- ReactJS
+- NodeJS
+- HTML
+- CSS
+- Javascript
+- Visual Studio
