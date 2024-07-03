@@ -1,7 +1,7 @@
 
 # iPod
 
-Built an iPod Web App using React.js.
+This is a Mini iPod App Project which is built by using React.
 
 
 ## Features
