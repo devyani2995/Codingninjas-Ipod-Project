@@ -16,6 +16,8 @@ Built an iPod Web App using React.js.
   
 ## Tools Used
 
+A menu of options like you see such as Music, Games, Settings etc.
+On clicking of the centre button go inside the menu
 -ReactJS
 -NodeJS
 -HTML
