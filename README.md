@@ -33,3 +33,6 @@ The main features of the app include:
 - CSS
 - Javascript
 - Visual Studio
+
+## Hosted URL:
+https://mini-ipod-project.netlify.app/
