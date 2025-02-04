@@ -1,7 +1,7 @@
 
 # iPod
 
-Built an iPod Web App using React.js.
+This is a Mini iPod App Project which is built by using React.
 
 ## Project Description
 
@@ -24,3 +24,12 @@ The main features of the app include:
 - Clicking on 'Menu' should take you back to the main menu
 - A sub menu is inside Menu like in Music option, it has sub menu with options 'All songs', 'Artists' etc.
 - Inside settings menu, theme can be changed to dark or to light by clicking the center button.
+  
+## Tools Used
+
+- ReactJS
+- NodeJS
+- HTML
+- CSS
+- Javascript
+- Visual Studio
