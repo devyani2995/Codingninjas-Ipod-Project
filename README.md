@@ -3,6 +3,17 @@
 
 Built an iPod Web App using React.js.
 
+## Project Description
+
+This project is a web-based simulation of the classic iPod interface, built using React.js. The application mimics the look and feel of an iPod, complete with a circular navigation wheel and a menu system. Users can navigate through various options such as Music, Games, and Settings, just like on a real iPod. The app also includes a functional music player that allows users to play, pause, and skip songs.
+
+The main features of the app include:
+
+- **Menu Navigation**: A menu of options such as Music, Games, Settings, etc. Users can navigate through these options using the circular navigation wheel.
+- **Sub-Menus**: Each main menu option can have sub-menus. For example, the Music option has sub-menus like 'All songs', 'Artists', and 'Albums'.
+- **Circular Navigation**: Users can click and hold on the circular menu and move the mouse in a circular fashion to navigate through the iPod menu.
+- **Theme Settings**: Inside the settings menu, users can change the theme of the app to dark or light by clicking the center button.
+- **Music Player**: The app includes a music player that allows users to play, pause, and skip songs. The player also displays the song's progress and thumbnail.
 
 ## Features
 
